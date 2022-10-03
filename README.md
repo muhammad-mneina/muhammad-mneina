@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @muhammad-mneina
 - 👀 I’m interested in front-end dev
 - 🌱 I’m currently learning HTML, CSS, and Javascript 
-- 📫 How to reach me: muhammadmneina@gmail.com
+- 📫 How to reach me: muhammadmneina.com
 
 <!---
 muhammad-mneina/muhammad-mneina is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
